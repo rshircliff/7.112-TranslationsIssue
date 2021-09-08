@@ -1,0 +1,1 @@
+<apex:page id="LeadAction" standardController="Lead" extensions="ExampleExtension" action="{!action}" />
