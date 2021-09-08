@@ -1,0 +1,23 @@
+{
+  "orgName": "rshircliff company",
+  "edition": "Enterprise",
+  "features": ["ForceComPlatform", "PersonAccounts", "CPQ", "Communities"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "chatterSettings": {
+      "enableChatter": true
+    },
+    "communitiesSettings": {
+      "enableNetworksEnabled": true
+    },
+    "experienceBundleSettings": {
+      "enableExperienceBundleMetadata": true
+    },
+    "languageSettings": {
+      "enableTranslationWorkbench": true,
+      "enableEndUserLanguages": true
+    }
+  }
+}
